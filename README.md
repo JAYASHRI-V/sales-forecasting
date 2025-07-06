@@ -2,13 +2,19 @@
 
 This project predicts future sales using historical data with a Linear Regression model. It helps businesses plan ahead based on sales trends.
 
+---
+
 ## 🧠 Problem Statement
 Businesses struggle to estimate future sales based on past performance.
+
+---
 
 ## 🎯 Objective
 - Build a regression model using historical sales data.
 - Forecast future revenue.
 - Visualize predictions against actual sales.
+
+---
 
 ## 📁 Dataset
 File: `sales_data_for_forecasting.csv`  
@@ -18,6 +24,8 @@ Columns:
 - `Quantity`: Units sold
 - `Revenue`: Total revenue from the sale
 
+---
+
 ## 🛠️ Tools & Libraries
 - Python 3.x
 - Pandas
@@ -26,18 +34,13 @@ Columns:
 - Seaborn
 - Scikit-learn
 
-## 📦 Installation
-pip install -r requirements.txt
+---
 
 ## Output
-<picture>![Uploading image.png…]()
-
-## Auther 
-Jayashri V
-Contact Me: 9894951757
-jayashri.v2004@gmail.com
-www.linkedin.com/in/jayashri-vasanthakumar
+![Sales Forecast Output]("C:\Users\JAYASHRI. V\OneDrive\Pictures\screenshots\Screenshot 2025-07-06 181103.png")
 
 
+## 📦 Installation
 
-
+```bash
+pip install -r requirements.txt
