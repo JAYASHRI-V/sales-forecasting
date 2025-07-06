@@ -37,7 +37,8 @@ Columns:
 ---
 
 ## Output
-![Sales Forecast Output]("C:\Users\JAYASHRI. V\OneDrive\Pictures\screenshots\Screenshot 2025-07-06 181103.png")
+![Sales Forecast Output]![Screenshot 2025-07-06 181103](https://github.com/user-attachments/assets/53ecc7ef-573d-4812-9fc1-22a32a4a34cc)
+
 
 
 ## 📦 Installation
