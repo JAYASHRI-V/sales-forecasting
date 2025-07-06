@@ -30,3 +30,11 @@ Columns:
 
 ```bash
 pip install -r requirements.txt
+
+## Auther 
+Jayashri V
+Contact Me: 9894951757
+jayashri.v2004@gmail.com
+www.linkedin.com/in/jayashri-vasanthakumar
+
+
