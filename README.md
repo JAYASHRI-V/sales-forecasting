@@ -42,16 +42,17 @@ Columns:
 ![Screenshot 2025-07-06 182304](https://github.com/user-attachments/assets/2673fcc2-66d6-48e2-88b5-ff2712265316)
 
 
-## 📦 Installation
 
-```bash
-pip install -r requirements.txt
-'''bash
-
-✨ Author
+## ✨ Author
 Jayashri Vasanthakumar
 📞 Contact: 9894951757
 📧 Email: jayashri.v2004@gmail.com
 🔗 https://www.linkedin.com/in/jayashri-vasanthakumar/
+
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
 
 
