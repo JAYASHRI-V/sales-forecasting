@@ -30,7 +30,7 @@ Columns:
 pip install -r requirements.txt
 
 ## Output
-![Uploading image.png…]()
+<picture>![Uploading image.png…]()
 
 ## Auther 
 Jayashri V
